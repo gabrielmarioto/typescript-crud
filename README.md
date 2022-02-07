@@ -5,23 +5,21 @@
 
 <h3 align="center">
 <img src="https://img.shields.io/static/v1?label=NodeJS&message=Backend&color=339933&style=for-the-badge&logo=Node.js"/> 
-<img src="https://img.shields.io/static/v1?label=Express&message=Framework&color=000000&style=for-the-badge&logo=Express"/> <br>
-
+<img src="https://img.shields.io/static/v1?label=Express&message=Framework&color=000000&style=for-the-badge&logo=Express"/>
 <img src="https://img.shields.io/static/v1?label=TypeScript&message=LANGUAGE&color=3178C6&style=for-the-badge&logo=TypeScript"/> 
 <img src="https://img.shields.io/static/v1?label=PostgreSQL&message=DB&color=4169E1&style=for-the-badge&logo=PostgreSQL"/>
-<img src="https://img.shields.io/static/v1?label=VSCode&message=IDE&color=007ACC&style=for-the-badge&logo=Visual Studio Code"/>
 </h3>
 
 ---
 
 <p align="center">
- <a href="#-o-que-é">O que é ?</a> | 
- <a href="#-projeto">Projeto</a> |
+ <a href="#-o-que-é-">O que é</a> | 
+ <a href="#%EF%B8%8F-projeto">Projeto</a> |
  <a href="#-exemplos">Exemplos</a> |
  <a href="#-pré-requisitos">Pré-Requisitos</a> |
  <a href="#-rodando-o-projeto">Rodando o Projeto</a> |
- <a href="#-tecnologias">Tecnologias</a> |
- <a href="#-aluno">Aluno</a> 
+ <a href="#%EF%B8%8F-tecnologias">Tecnologias</a> |
+ <a href="#-autor">Autor</a> 
 </p>
 
 # ❓ O que é ?
