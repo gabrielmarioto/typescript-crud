@@ -21,14 +21,14 @@ export class Video {
   description: string;
 
   @Column()
+  duration: number;
+
+  @Column()
   category_id: string;
 
   @ManyToOne(() => Category)
   @JoinColumn({ name: "category_id" })
   category: Category;
-
-  @Column()
-  duration: number;
 
   @CreateDateColumn()
   created_at: Date;
